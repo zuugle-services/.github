@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://zuugle-services.com/wp-content/uploads/2024/03/Zuugle_Services_GmbH_Logo_quer.svg" alt="Zuugle Services GmbH Logo" width="400"/>
+  <img src="https://github.com/user-attachments/assets/75eaceeb-d09f-4ca5-a35c-2e8cd451f473" alt="Zuugle Services GmbH Logo" width="400"/>
   <h1>Zuugle Services GmbH</h1>
   <p>
     <b>Smart. Green. Connect.</b>

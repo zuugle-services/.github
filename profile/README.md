@@ -1,9 +1,5 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/75eaceeb-d09f-4ca5-a35c-2e8cd451f473" alt="Zuugle Services GmbH Logo" width="400"/>
-  <h1>Zuugle Services GmbH</h1>
-  <p>
-    <b>Smart. Green. Connect.</b>
-  </p>
   <p>
     <a href="https://www.zuugle-services.com/"><strong>Website</strong></a> |
     <a href="mailto:office@zuugle-services.com"><strong>Kontakt</strong></a>

@@ -27,7 +27,7 @@ Unser Hauptprodukt ist das **Diana GreenConnect Widget** – eine einfach einzub
 - **Open Source Frontend:** Der Quellcode für das Widget wird als Open Source veröffentlicht, um maximale Anpassbarkeit und Transparenz zu gewährleisten.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zuugle-services/DianaWidget/main/img/preview.png" alt="Diana GreenConnect Widget Vorschau" width="500"/>
+  <img src="https://raw.githubusercontent.com/zuugle-services/DianaWidget/main/img/preview.png" alt="Diana GreenConnect Widget Vorschau" width=""/>
 </div>
 
 ### ✨ Kernfunktionen

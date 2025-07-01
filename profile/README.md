@@ -36,7 +36,7 @@ Our main product is the **Diana GreenConnect Widget** – an easy-to-integrate s
 - **Open Source Frontend:** The source code for the widget is published as open source to ensure maximum customizability and transparency.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zuugle-services/DianaWidget/main/img/preview.png" alt="Diana GreenConnect Widget Preview" width=""/>
+  <a href="https://www.zuugle-services.com/diana/"><img src="https://raw.githubusercontent.com/zuugle-services/DianaWidget/main/img/preview.png" alt="Diana GreenConnect Widget Preview" width=""/></a>
 </div>
 
 ### ✨ Core Features

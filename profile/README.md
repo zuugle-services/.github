@@ -7,10 +7,10 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/zuugle-services/DianaWidget#multilanguage-readme-pattern">
+  <a href="https://github.com/zuugle-services/.github/blob/profile/README.md">
     <img src="https://img.shields.io/badge/lang-en-red.svg" alt="English Language">
   </a>
-  <a href="https://github.com/zuugle-services/DianaWidget/blob/main/README.de.md">
+  <a href="https://github.com/zuugle-services/.github/blob/profile/README.de.md">
     <img src="https://img.shields.io/badge/lang-de-yellow.svg" alt="German Language">
   </a>
 </div>

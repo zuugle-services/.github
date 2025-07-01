@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/75eaceeb-d09f-4ca5-a35c-2e8cd451f473" alt="Zuugle Services GmbH Logo" width="400"/>
+  <a href="https://www.zuugle-services.com/"><img src="https://github.com/user-attachments/assets/75eaceeb-d09f-4ca5-a35c-2e8cd451f473" alt="Zuugle Services GmbH Logo" width="400"/></a>
   <p>
     <a href="https://www.zuugle-services.com/"><strong>Website</strong></a> |
     <a href="mailto:office@zuugle-services.com"><strong>Contact</strong></a>

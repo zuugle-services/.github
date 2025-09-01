@@ -1,7 +1,7 @@
 <div align="center">
-  <a href="https://www.zuugle-services.com/"><img src="https://github.com/user-attachments/assets/75eaceeb-d09f-4ca5-a35c-2e8cd451f473" alt="Zuugle Services GmbH Logo" width="400"/></a>
+  <a href="https://zuugle-services.com/"><img src="https://zuugle-services.com/wp-content/uploads/2025/08/Zuugle_logo_RGB_Hauptlogo.png" alt="Zuugle Services GmbH Logo" width="400" height="292"/></a>
   <p>
-    <a href="https://www.zuugle-services.com/"><strong>Website</strong></a> |
+    <a href="https://zuugle-services.com/"><strong>Website</strong></a> |
     <a href="mailto:office@zuugle-services.com"><strong>Contact</strong></a>
   </p>
 </div>

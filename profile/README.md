@@ -19,7 +19,7 @@
 
 ## 👋 About Us
 
-Welcome to the GitHub profile of **Zuugle Services GmbH**!
+Welcome to the GitHub profile of **Zuugle Services**!
 
 Our mission is to develop smart and green mobility solutions. Building on our experience from the NGO project "Bahn zum Berg" (Train to the Mountain), we have created a commercial solution that enables companies and event organizers to make sustainable travel by public transport simple and attractive for their customers.
 

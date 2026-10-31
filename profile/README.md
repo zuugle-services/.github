@@ -20,7 +20,7 @@ We are **Zuugle Services**, a company in Vienna building the technology that mak
 
 Guests are happy to take the train, until the journey planner stops at the station. The shuttle to the hotel, the cable car up the mountain, the bus back after the concert: they are often missing, so the whole trip looks impossible without a car. We close that gap.
 
-Our roots are in the non-profit project [Bahn zum Berg](https://www.bahn-zum-berg.at) (*train to the mountain*). Building on that experience, we offer the same idea commercially to tourism businesses, event organisers, hotels, regions and transport operators.
+Our roots are in the non-profit organisation [Bahn zum Berg](https://www.bahn-zum-berg.at) (*train to the mountain*). Building on that experience, we offer the same idea commercially to tourism businesses, event organisers, hotels, regions and transport operators.
 
 ---
 
